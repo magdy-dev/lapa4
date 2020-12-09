@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Cars>
+    <Car Id="1">
+        <Make>BMW</Make>
+        <Model>M550</Model>
+        <Mileage>120000km</Mileage>
+        <ProductionYear>2012</ProductionYear>
+    </Car>
+    <Car Id="2">
+        <Make>BMW</Make>
+        <Model>GB</Model>
+        <Mileage>718980km</Mileage>
+        <ProductionYear>2017</ProductionYear>
+    </Car>
+    <Car Id="3">
+        <Make>Nissan</Make>
+        <Model>M S</Model>
+        <Mileage>20000km</Mileage>
+        <ProductionYear>2021</ProductionYear>
+    </Car>
+    <Car Id="4">
+        <Make>Mazda</Make>
+        <Model>Edge</Model>
+        <Mileage>279km</Mileage>
+        <ProductionYear>2020</ProductionYear>
+    </Car>
+</Cars>
